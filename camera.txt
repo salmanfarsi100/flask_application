@@ -1,0 +1,3 @@
+username salmannadeem
+password 12345
+ipaddress 192.168.1.108

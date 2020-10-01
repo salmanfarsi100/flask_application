@@ -1,0 +1,11 @@
+baudrate 9600
+samplefrequency 6000
+speedunit UK
+direction R+
+fftmode off
+jsonmode OJ
+rawdata or
+numberreport 05
+rangereport OD
+speedreport OS
+reportunit nu
